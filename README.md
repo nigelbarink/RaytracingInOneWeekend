@@ -5,4 +5,4 @@
 
 
 
-### Original author Post: https://raytracing.github.io/books/RayTracingInOneWeekend.html#overview
+### Original author Post: https://raytracing.github.io/books/RayTracingInOneWeekend.html
