@@ -1,0 +1,6 @@
+bin/
+tools/premake
+obj/
+*.ppm
+*.sln
+*.vcxproj
