@@ -1,7 +1,7 @@
 # Raytracing in one weekend
 
 
-[!img]()
+![Movable lens](results/Camerazoom.png)
 
 
 
